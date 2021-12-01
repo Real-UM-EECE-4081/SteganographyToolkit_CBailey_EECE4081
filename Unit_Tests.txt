@@ -1,0 +1,8 @@
+Unit Tests
+1: Encode a message using input file PNG_Test_A.
+2: Encode decode message using input file PNG_Test_B.
+3: Decode a message using input file PNG_Test_A.
+4: Decode decode message using input file PNG_Test_B.
+5: Attempt encoding and decoding with invalid passwords.
+6: Attempt encoding and decoding with correct passwords.
+	b) The passwords, due to this being a test project, are displayed as a tooltip when hovering over the encode or decode button.
